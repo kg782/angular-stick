@@ -1,0 +1,19 @@
+{
+  "name": "angular-stick",
+  "version": "0.0.2",
+  "main": [
+    "angular-stick.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "index.html"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },
+  "devDependencies": {
+    "angular": "^1.4.0"
+  }
+}
